@@ -50,7 +50,7 @@ This script transforms a fresh Ubuntu installation into a secure, productive dev
 
 3. **Run the script:**
    ```bash
-   ./phoenix32-setup.sh
+   ./setup.sh
    ```
 
 4. **Follow the prompts** and let the script work its magic!
